@@ -1,0 +1,1 @@
+# akilli-ev-sistemleri
