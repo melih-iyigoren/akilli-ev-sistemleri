@@ -27,8 +27,6 @@ Frontend:
 Backend:
 - Node.js
 - Express.js
-- JSON Web Token (JWT)
-- Bcrypt
 
 Veritabanı:
 - PostgreSQL
